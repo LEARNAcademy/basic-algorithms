@@ -12,7 +12,7 @@ Instead of placing large values into sorted position at the end of the array, we
 
 Compares each value to the bext value, then swaps positions accordingly. Works well with nearly-sorted arrays.
 
-# Merge Sort
+## Merge Sort
 
 Merge sort exploits the fact that arrays of 0 or 1 value are already sorted. It recursively decomposes a larger array into smaller and smaller pieces, all the way down to single- value arrays. It then starts merging those arrays in sequential order, resulting in a sorted final array.
 
