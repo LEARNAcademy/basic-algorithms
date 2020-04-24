@@ -16,7 +16,7 @@ Compares each value to the bext value, then swaps positions accordingly. Works w
 
 Merge sort exploits the fact that arrays of 0 or 1 value are already sorted. It recursively decomposes a larger array into smaller and smaller pieces, all the way down to single- value arrays. It then starts merging those arrays in sequential order, resulting in a sorted final array.
 
-## Example of Recursion (What is the (n)th value of the fibonacci sequence?)
+## Example of Recursion "What is the (n)th value of the fibonacci sequence?"
 
 A process/function that calls itself. Basically performing small actions over and over on smaller pieces of information until you reach and end case (or base case). It can sometimes be cleaner than iteration.
 
