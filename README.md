@@ -10,7 +10,7 @@ Instead of placing large values into sorted position at the end of the array, we
 
 ## Bubble Sort
 
-Compares each value to the bext value, then swaps positions accordingly. Works well with nearly-sorted arrays.
+Compares each value to the bext value, then swaps positions accordingly. Larger values "bubble" to the end of the array. Works well with nearly-sorted arrays.
 
 ## Merge Sort
 
