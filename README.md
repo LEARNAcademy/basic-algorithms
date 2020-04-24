@@ -22,7 +22,7 @@ A process/function that calls itself. Basically performing small actions over an
 
 ### The Call Stack
 
-A stack is a data structure. Think of it like a slack or paper. 
+A stack is a data structure. Think of it like a stack of paper. 
 - When a function is invoked, it is placed on the top of the call stack (push). Like a stack of papers on my desk, when I have a new sheet, I place it on top.
 - When JS sees a return keyword or a function ends, the complier will remove the top item of the stack (pop)
 - When we write recursive functions, we keep pushing the same function over and over onto the call stack
